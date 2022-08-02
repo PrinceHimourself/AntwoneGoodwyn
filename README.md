@@ -3,7 +3,7 @@ Hi 👋 My name is Antwone Goodwyn
 
 * 🖥️  See my portfolio at [My Website](http://princehimourself.github.io/kingdom/)
 * ✉️  You can contact me at [agoodwyn1111@protonmail.com](mailto:agoodwyn1111@protonmail.com)
-* 🧠  I'm learning about Game Development, A.I., Web Design, 3D animation
+* 🧠  Game Development, A.I., Web Design, 3D animation
 
 <a href="https://www.twitch.tv/himourself" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/himourself?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=831843&label=TWITCH+STATUS" /></a>
