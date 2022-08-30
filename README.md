@@ -5,9 +5,9 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Dallas, Tx
-* 🖥️  See my portfolio at [My website](http://https://princehimourself.github.io/kingdom/)
+* 🖥️  See my portfolio at [My website](https://princehimourself.github.io/kingdom/)
 * ✉️  You can contact me at [agoodwyn1111@gmail.com](mailto:agoodwyn1111@gmail.com)
-* 🚀  I'm currently working on [7StarStays](http://https://princehimourself.github.io/7StarsStays/)
+* 🚀  I'm currently working on [7StarStays](https://princehimourself.github.io/7StarsStays/)
 * 🧠  I'm learning about Web3, Virtual Reality, Artificial Intelligence, Game Development, Web Design, 3D animation
 
 <a href="https://www.github.com/PrinceHimourself" target="_blank" rel="noreferrer"><img
