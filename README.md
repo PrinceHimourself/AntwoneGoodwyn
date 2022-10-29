@@ -29,14 +29,14 @@ src="https://img.shields.io/twitch/status/himourself?logo=twitchsx&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Prynce77Goodwyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@agoodwyn1111" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18478083/antwone-goodwyn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/himourself" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Prynce77Goodwyn"><img src="https://github-readme-stats.vercel.app/api?username=PrinceHimourself&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ef4444&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="PrinceHimourself's GitHub stats" /></a>
+<a href="http://www.github.com/Prynce77Goodwyn"><img src="https://github-readme-stats.vercel.app/api?username=Prynce77Goodwyn&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ef4444&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="Prynce77Goodwyn's GitHub stats" /></a>
 
-<a href="https://github.com/Prynce77Goodwyn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceHimourself&langs_count=10&title_color=64748b&text_color=ef4444&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Prynce77Goodwyn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prynce77Goodwyn&langs_count=10&title_color=64748b&text_color=ef4444&icon_color=444e59&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/Prince777"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/Prynce777"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
